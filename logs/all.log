@@ -1,0 +1,160 @@
+2021-08-26 16:15:03:153 [32minfo[39m: [32mSucesso[39m
+2021-08-26 16:22:17:2217 [32minfo[39m: [32mSucesso[39m
+2021-08-26 16:23:07:237 [32minfo[39m: [32mSucesso ${test}[39m
+2021-08-26 16:24:00:240 [32minfo[39m: [32mSucesso [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2021-08-26 16:26:01:261 [32minfo[39m: [32mSucesso [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2021-08-26 16:27:31:2731 [32minfo[39m: [32mMetethod Get sucess[39m
+2021-08-26 16:42:18:4218 [32minfo[39m: [32mMetethod Get Sucess 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-26 16:50:23:5023 [32minfo[39m: [32mMetethod Get Sucess 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-26 16:53:43:5343 [31merror[39m: [31mUuid is not found 701abfc4-81cd-11eb-910a-0ea7622c23f3[39m
+2021-08-26 17:15:26:1526 [31merror[39m: [31mUuid is not found 701abfc4-81cd-11eb-910a-0ea7622c23f3[39m
+2021-08-26 17:15:39:1539 [31merror[39m: [31mChannel not found: c433b6b1-482f-4fc2-bed9-ac800ef76111[39m
+2021-08-26 17:16:08:168 [31merror[39m: [31mChannel not found: c433b6b1-482f-4fc2-bed9-ac800ef76a11[39m
+2021-08-26 17:16:21:1621 [31merror[39m: [31mChannelType is not found: 1d3cec27-4a2c-4023-90f9-a2e60c11f7f9[39m
+2021-08-27 16:25:01:251 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-27 16:36:44:3644 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-27 16:38:24:3824 [31merror[39m: [31mChannel not found 701abfc4-81cd-11eb-910a-0ea7622c23f3[39m
+2021-08-27 16:38:36:3836 [32minfo[39m: [32mMetethod Get Sucess 383c78c1-0218-4e04-87f1-4fb40faf8673[39m
+2021-08-27 16:38:42:3842 [32minfo[39m: [32mMetethod Get Sucess 383c78c1-0218-4e04-87f1-4fb40faf8673[39m
+2021-08-27 16:38:46:3846 [32minfo[39m: [32mMetethod Get Sucess 383c78c1-0218-4e04-87f1-4fb40faf8673[39m
+2021-08-27 16:39:09:399 [32minfo[39m: [32mUpdate is channal for: 383c78c1-0218-4e04-87f1-4fb40faf8673[39m
+2021-08-27 16:39:16:3916 [32minfo[39m: [32mMetethod Get Sucess 383c78c1-0218-4e04-87f1-4fb40faf8673[39m
+2021-08-27 16:39:21:3921 [32minfo[39m: [32mDelete channel for: 383c78c1-0218-4e04-87f1-4fb40faf8673[39m
+2021-08-27 16:39:26:3926 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-27 16:39:45:3945 [32minfo[39m: [32mCreate is new channal[39m
+2021-08-27 16:39:52:3952 [32minfo[39m: [32mDelete channel for: 59badddf-546f-49c1-bba5-c75fc909ba96[39m
+2021-08-27 16:39:55:3955 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-27 16:40:07:407 [32minfo[39m: [32mDelete channel for: 73e46590-6968-4a56-80a6-23d2b42dc587[39m
+2021-08-27 16:42:30:4230 [32minfo[39m: [32mCreate is new channal[39m
+2021-08-27 16:42:34:4234 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-27 16:42:46:4246 [32minfo[39m: [32mDelete channel for: 27598443-7473-40d2-a6d3-bd3d4346b62a[39m
+2021-08-27 16:42:51:4251 [32minfo[39m: [32mMetethod Get Sucess 27598443-7473-40d2-a6d3-bd3d4346b62a[39m
+2021-08-27 16:43:01:431 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-27 16:43:58:4358 [32minfo[39m: [32mDelete channel for: 27598443-7473-40d2-a6d3-bd3d4346b62a[39m
+2021-08-27 16:44:01:441 [31merror[39m: [31mChannel not found 27598443-7473-40d2-a6d3-bd3d4346b62a[39m
+2021-08-27 16:44:10:4410 [31merror[39m: [31mChannel not found 27598443-7473-40d2-a6d3-bd3d4346b62a[39m
+2021-08-27 16:44:14:4414 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-30 13:40:33:4033 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-30 13:40:42:4042 [32minfo[39m: [32mCreate is new channal[39m
+2021-08-30 13:40:46:4046 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-30 13:43:58:4358 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-30 19:37:01:371 [31merror[39m: [31mChannel not found 27598443-7473-40d2-a6d3-bd3d4346762a[39m
+2021-08-30 19:38:14:3814 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-30 19:39:27:3927 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-30 19:39:32:3932 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-30 19:39:56:3956 [31merror[39m: [31mChannel not found 27598443-7473-40d2-a6d3-bd3d4346b62a[39m
+2021-08-30 19:40:06:406 [32minfo[39m: [32mMetethod Get Sucess 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-31 10:41:21:4121 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-31 10:42:47:4247 [32minfo[39m: [32mUpdate is channal for: 01c33866-fd21-4f90-9b31-a467fc2e6626[39m
+2021-08-31 10:42:55:4255 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-31 10:43:01:431 [32minfo[39m: [32mUpdate is channal for: 01c33866-fd21-4f90-9b31-a467fc2e6626[39m
+2021-08-31 10:43:13:4313 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e3626[39m
+2021-08-31 10:44:51:4451 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-31 10:48:47:4847 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-31 10:56:30:5630 [31merror[39m: [31mChannel not found: [object Object][39m
+2021-08-31 11:02:30:230 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-31 11:03:50:350 [31merror[39m: [31mChannel not found: 01c33866-fd21-4f90-9b31-a467fc2e6636[39m
+2021-08-31 11:46:29:4629 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-31 11:46:46:4646 [31merror[39m: [31merror[39m
+2021-08-31 11:48:19:4819 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 11:56:46:5646 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 11:56:47:5647 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 11:57:21:5721 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 11:57:43:5743 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 11:59:05:595 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:02:49:249 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:02:50:250 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:03:37:337 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:03:40:340 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:03:50:350 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:03:50:350 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:03:53:353 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:04:31:431 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:04:32:432 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:04:33:433 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 12:04:40:440 [32minfo[39m: [32mCreate is new channal[39m
+2021-08-31 12:04:48:448 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:05:18:518 [32minfo[39m: [32mDelete channel for: 7d2d9474-0d04-45a9-a90e-8521a272759a[39m
+2021-08-31 12:05:37:537 [32minfo[39m: [32mDelete channel for: 4a158527-9a10-4ca7-9d29-4b628dd43bb2[39m
+2021-08-31 12:05:42:542 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:06:01:61 [32minfo[39m: [32mDelete channel for: 806462fc-a3a9-4707-ad7d-866caf84eedb[39m
+2021-08-31 12:06:04:64 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:06:29:629 [32minfo[39m: [32mDelete channel for: c9b52816-22c3-4da0-b266-97af2bcd0f4e[39m
+2021-08-31 12:06:44:644 [32minfo[39m: [32mDelete channel for: f38e0877-fe8d-4745-a892-e3d1a9952c20[39m
+2021-08-31 12:06:52:652 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:07:13:713 [32minfo[39m: [32mCreate is new channal[39m
+2021-08-31 12:07:15:715 [32minfo[39m: [32mMetethod Get Sucess 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-31 12:07:17:717 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:07:49:749 [32minfo[39m: [32mDelete channel for: ef199f1e-904d-400d-9421-fd6e6a795ca2[39m
+2021-08-31 12:08:15:815 [32minfo[39m: [32mDelete channel for: 4c639a58-7e22-4642-bac9-8307d4681d60[39m
+2021-08-31 12:10:59:1059 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:52:17:5217 [32minfo[39m: [32mMetethod Get Sucess.[39m
+2021-08-31 12:52:28:5228 [32minfo[39m: [32mMetethod Get Sucess 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-31 12:52:50:5250 [32minfo[39m: [32mMetethod Get Sucess 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-31 12:53:15:5315 [32minfo[39m: [32mMetethod Get Sucess: 701abfc4-81cd-11eb-910a-0ea7622c23f9[39m
+2021-08-31 12:55:56:5556 [32minfo[39m: [32mMetethod Get Sucess: c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-08-31 12:56:19:5619 [32minfo[39m: [32mUpdate is channal for: c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-08-31 12:56:51:5651 [32minfo[39m: [32mDelete channel for: c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-08-31 12:58:50:5850 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-08-31 12:59:08:598 [32minfo[39m: [32merror connecting to server: Error: connect ECONNREFUSED 127.0.0.1:3307[39m
+2021-08-31 12:59:14:5914 [32minfo[39m: [32merror connecting to server: Error: connect ECONNREFUSED 127.0.0.1:3307[39m
+2021-08-31 12:59:33:5933 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 13:01:56:156 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 13:02:11:211 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 13:02:30:230 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 13:03:12:312 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 13:03:18:318 [31merror[39m: [31merror connecting to server.[39m
+2021-08-31 13:03:55:355 [32minfo[39m: [32merror connecting to server: EntityMetadataNotFoundError: No metadata for "ChannelType" was found.[39m
+2021-08-31 13:04:31:431 [31merror[39m: [31merror connecting to server: EntityMetadataNotFoundError: No metadata for "ChannelType" was found.[39m
+2021-08-31 13:04:47:447 [31merror[39m: [31merror connecting to server[39m
+2021-09-01 09:00:35:035 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-09-01 09:02:04:24 [31merror[39m: [31merror connecting to server.[39m
+2021-09-01 09:02:59:259 [31merror[39m: [31merror connecting to server.[39m
+2021-09-01 09:03:13:313 [31merror[39m: [31merror connecting to server.[39m
+2021-09-01 09:11:49:1149 [31merror[39m: [31merror connecting to server.[39m
+2021-09-01 09:12:09:129 [31merror[39m: [31merror connecting to server.[39m
+2021-09-01 09:12:26:1226 [31merror[39m: [31merror connecting to server.[39m
+2021-09-01 09:18:21:1821 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:48:27:4827 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:49:39:4939 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:49:42:4942 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:49:54:4954 [32minfo[39m: [32mMetethod Get Sucess[39m
+2021-09-01 09:50:07:507 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:50:07:507 [31merror[39m: [31mProduct not found[39m
+2021-09-01 09:53:20:5320 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:53:20:5320 [31merror[39m: [31mProduct not found[39m
+2021-09-01 09:54:42:5442 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:54:42:5442 [31merror[39m: [31mProduct not found[39m
+2021-09-01 09:55:53:5553 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:55:53:5553 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:56:04:564 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:56:04:564 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:56:40:5640 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:56:40:5640 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:57:07:577 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:57:07:577 [31merror[39m: [31mProduct not found[39m
+2021-09-01 09:57:31:5731 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:57:39:5739 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:57:50:5750 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:58:18:5818 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:58:18:5818 [31merror[39m: [31mInternal server error[39m
+2021-09-01 09:59:55:5955 [31merror[39m: [31mChannel not found c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3[39m
+2021-09-01 09:59:55:5955 [31merror[39m: [31mProduct not found[39m
+2021-09-01 10:15:50:1550 [31merror[39m: [31mChannel c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3 not found[39m
+2021-09-01 10:16:13:1613 [31merror[39m: [31mChannel c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3 not found[39m
+2021-09-01 10:16:39:1639 [31merror[39m: [31mInternal server error[39m
+2021-09-01 10:16:45:1645 [31merror[39m: [31mChannel c2f942f3-76ac-4c2b-ad0c-641b20f8bbc3 not found[39m
+2021-09-01 10:18:23:1823 [31merror[39m: [31mChannel not found: c2f942f3-76ac-4c2b-ad0c-641b20f8bbc4[39m
+2021-09-01 10:18:23:1823 [31merror[39m: [31mchannel not found[39m
+2021-09-01 10:20:06:206 [31merror[39m: [31mchannel c2f942f3-76ac-4c2b-ad0c-641b20f8bbc4 not found[39m
+2021-09-01 10:21:10:2110 [31merror[39m: [31mChannelType is not found: 1d3cec27-4a2c-4023-90f9-a2e60c46f7f0[39m
+2021-09-01 10:21:10:2110 [31merror[39m: [31mThere is already one channelType with this Uuid[39m
+2021-09-01 10:21:59:2159 [32minfo[39m: [32mCreate is new channal[39m
+2021-09-01 10:22:08:228 [31merror[39m: [31mChannelType is not found: 1d3cec27-4a2c-4023-90f9-a2e60c46f729[39m
+2021-09-01 10:22:08:228 [31merror[39m: [31mThere is already one channelType with this Uuid[39m
+2021-09-01 10:24:07:247 [31merror[39m: [31mInternal server error[39m
+2021-09-01 10:24:47:2447 [31merror[39m: [31mChannelType does not exist: 1d3cec27-4a2c-4023-90f9-a2e60c46f729[39m
+2021-09-01 10:25:40:2540 [31merror[39m: [31mChannel not found: c2f942f3-76ac-4c2b-ad0c-641b20f8bb33[39m
+2021-09-01 10:32:14:3214 [31merror[39m: [31mChannelType not found: 1d3cec27-4a2c-4023-90f9-a2e60c46f729[39m
+2021-09-01 10:34:09:349 [32minfo[39m: [32mMetethod channelList sucess[39m
+2021-09-01 10:34:15:3415 [32minfo[39m: [32mMetethod channelTypeList Sucess[39m
